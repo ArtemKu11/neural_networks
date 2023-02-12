@@ -1,0 +1,13 @@
+
+venv
+Perceptron/src/resources/saved_to_cam/
+Perceptron/src/resources/saved_to_screen/
+.idea
+Perceptron/src/resources/networks/perceptron2.h5
+Perceptron/src/resources/networks/perceptron3.h5
+Perceptron/src/resources/networks/perceptron4.h5
+Perceptron/src/resources/networks/perceptron5.h5
+Perceptron/src/resources/networks/perceptron6.h5
+Perceptron/src/resources/networks/perceptron7.h5
+Perceptron/src/resources/networks/perceptron8.h5
+__pycache__
